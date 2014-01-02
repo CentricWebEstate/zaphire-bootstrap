@@ -1,0 +1,8 @@
+{
+  "name": "zaphire-bootstrap",
+  "description": "A bootstrap for the Zaphire Framework",
+  "version": "0.1a",
+  "dependencies": {
+    "zaphire-framework": "CentricWebEstate/zaphire-framework"
+  }
+}

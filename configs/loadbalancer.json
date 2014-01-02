@@ -1,0 +1,6 @@
+{
+	"workers_per_core" : 1,
+	"minimum_workers": 2,
+	"log_level": 15,
+	"pidfile" : "/var/run/zaphire.pid"
+}
